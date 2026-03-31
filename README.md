@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ... 2018<br>📚 I'm currently learning ... Retrieval Augmented Generation<br>🎯 Goals: ... To build and code experiences that are meaningful to others while enjoying my work<br>🎲 Fun fact: ... I love Ice Cream :)</p>
+<p align="left">✨ Creating bugs since ... 2018<br>📚 I'm currently learning ... Agentic AI Workflows using Amazon Bedrock<br>🎯 Goals: ... To build and code experiences that are meaningful to others while enjoying my work<br>🎲 Fun fact: ... I love Ice Cream :)</p>
 
 ###
 
