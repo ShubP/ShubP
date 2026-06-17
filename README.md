@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">I'm a Computer Engineering student from the University of Illinois. I love building projects, and you can check them out here on GitHub.</h4>
+<h4 align="left">I'm a Computer Engineer from the University of Illinois. I love building projects extending into full stack development, machine learning and cloud deployment.</h4>
 
 ###
 
